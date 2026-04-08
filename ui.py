@@ -129,7 +129,7 @@ with st.sidebar:
         unsafe_allow_html=True,
     )
     st.markdown(
-        "<span class='graph-badge'>LangGraph · GPT-4o · Self-validating</span>",
+        "<span class='graph-badge'>LangGraph · GPT-4o </span>",
         unsafe_allow_html=True,
     )
     st.divider()

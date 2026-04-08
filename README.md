@@ -273,7 +273,6 @@ This ensures **100% data fidelity** — no hallucinated numbers, no made-up figu
 1. **Clone or download the repository:**
 ```bash
 git clone <your-repo-url>
-cd immu
 ```
 
 2. **Create a virtual environment:**
@@ -307,7 +306,7 @@ python -c "import langgraph; print('LangGraph version:', langgraph.__version__)"
 ### Starting the Application
 
 ```bash
-streamlit run ui.py
+streamlit run main.py
 ```
 
 The app will open in your browser at `http://localhost:8501`.

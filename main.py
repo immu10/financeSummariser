@@ -8,6 +8,8 @@ Kept here:
 
 Everything else (extraction, KPI, chat, prompts, schemas) lives in nodes.py.
 """
+import subprocess
+
 import fitz
 import os
 from dotenv import load_dotenv
@@ -181,3 +183,5 @@ def build_plotly_figure(chart_spec: dict):
         fig.update_layout(annotations=annotations)
 
     return fig
+if __name__ == "__main__":
+    subprocess.run(["streamlit", "run", "ui.py"], check=True)
