@@ -1,3 +1,6 @@
+### This is a token heavy version of the fin_stat repo in my github
+this was made just to meet a course project requirment as the other wasnt finished in time
+
 # FinSight AI 📊
 
 **LangGraph-Powered Financial Intelligence System**
