@@ -1,3 +1,5 @@
+This was a college course project (LLMs).
+
 # FinSight AI
 
 > LangGraph-powered financial intelligence for annual reports.
