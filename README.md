@@ -73,7 +73,9 @@ Key design choices:
                     every node calls the LLM via main.py client
 ```
 
-### File layout
+---
+
+## Project Structure
 
 | File | Responsibility |
 |------|----------------|
