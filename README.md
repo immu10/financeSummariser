@@ -150,4 +150,4 @@ Then open the local URL Streamlit prints, upload an annual report PDF in the sid
 
 ## Tags
 
-`#PDF-parsing` · `#financial-analysis`
+`PDF-parsing` · `financial-analysis`
