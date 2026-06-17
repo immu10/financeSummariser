@@ -7,6 +7,9 @@ This was a college course project (LLMs).
 FinSight AI turns a company's annual report PDF into an interactive financial dashboard and a grounded, self-validating chatbot. Upload a report, and the app locates the three core financial statements, parses them into structured data, surfaces executive KPIs, and answers free-form questions with auto-generated charts.
 
 ---
+## Screenshot
+
+![alt text](image.png)
 
 ## Overview
 
